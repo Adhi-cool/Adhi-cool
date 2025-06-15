@@ -45,6 +45,7 @@ Currently exploring computer science through [CS50x 2025](https://cs50.harvard.e
 ## 📫 Connect with Me
 
 - 🔗 GitHub: [Adhi-cool](https://github.com/Adhi-cool)
+- 🔗 Instagram: [adhi.05](https://instagram.com/adhi.05)
 - 💬 Ask me about CS50, C programming, or getting started with code
 - 🌟 Always open to learning and building new things!
 

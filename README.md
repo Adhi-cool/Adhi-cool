@@ -48,5 +48,6 @@ Currently exploring computer science through [CS50x 2025](https://cs50.harvard.e
 - 🔗 Instagram: [adhi_.55](https://instagram.com/adhi_.55)
 - 💬 Ask me about CS50, C programming, or getting started with code
 - 🌟 Always open to learning and building new things!
+- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Adhi-cool.Adhi-cool)
 
 > “Stay curious. Solve problems. Build boldly.” 🚀

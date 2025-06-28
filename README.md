@@ -9,7 +9,8 @@ Currently exploring computer science through [CS50x 2025](https://cs50.harvard.e
 
 - Completing CS50x 2025 (Harvard’s Intro to Computer Science)
 - Learning C, GitHub, and core programming fundamentals
-- Organizing my CS50 projects into [this repository](https://github.com/Adhi-cool/cs50x-projects)
+- Organizing my CS50 projects into a private repository  
+  *(Code available upon request — kept private to follow academic honesty policies)*
 - Preparing to dive into **CS50's Introduction to Python**
 
 ---
